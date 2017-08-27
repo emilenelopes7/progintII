@@ -1,0 +1,20 @@
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\bin\Debug\Calculadora_Tarefa.exe.config
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\bin\Debug\Calculadora_Tarefa.exe
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\bin\Debug\Calculadora_Tarefa.pdb
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.csprojResolveAssemblyReference.cache
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.Form1.resources
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.Properties.Resources.resources
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.csproj.GenerateResource.Cache
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.csproj.CoreCompileInputs.cache
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.exe
+d:\Documentos\Visual Studio 2017\Projects\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.pdb
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\bin\Debug\Calculadora_Tarefa.exe.config
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\bin\Debug\Calculadora_Tarefa.exe
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\bin\Debug\Calculadora_Tarefa.pdb
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.csprojResolveAssemblyReference.cache
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.Form1.resources
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.Properties.Resources.resources
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.csproj.GenerateResource.Cache
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.csproj.CoreCompileInputs.cache
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.exe
+C:\Projeto\progint\Calculadora_Tarefa\Calculadora_Tarefa\obj\Debug\Calculadora_Tarefa.pdb
